@@ -14,7 +14,7 @@ Also venturing on my first steps as a Software Engineer.
 If you wish to contact me 
 -> Molderon18@gmail.com
 
-      (Off-topic stuff)
+   (Off-topic stuff)
    
 *I'm a Sci-fi/Metalhead type-a-nerd & I really love the immersive-sim genre.
 (holding the Deus Ex series close to heart). 
