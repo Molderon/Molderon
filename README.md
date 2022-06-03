@@ -1,23 +1,19 @@
-Greetings, I'm @Molderon
-
-  I'm mainly a self-taught Programmer and I find 
-my-self quite inquisitive in the fileds of: 
-Back-end Development,  Machine Learning,  CyberSecurity,  Linux & 
-as well tinkering arould with Embedded Systems.
+Greetings, I'm Molderon
 
   -> a Bit about me...
+I'm the *Sci-fi/Metalhead* type-a-nerd, I find my-self quite inquisitive to the 
+field of Computer Science && I support Richard Stallman's free software movement.
 So mainly I Code in C/C++, Yet I'm Overthinking to dive into Python/GoLang
-(seems like lot's of fun) and I wish to participate in Richard Stallman's free software movement.
+(seems like lot's of fun). 
+
 I'm currently finishing an Industrial Engineering degree with little emphasis on robotics.
 Also venturing on my first steps as a Software Engineer.
 
 If you wish to contact me 
 -> Molderon18@gmail.com
 
-   (Off-topic stuff)
+
    
-*I'm a Sci-fi/Metalhead type-a-nerd (holding the Deus Ex series close to heart). 
-Also I have a "hobby-level" of interest in Computer Hacking \m/*
 
 
 
