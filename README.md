@@ -17,14 +17,8 @@ If you wish to contact me
    *(Off-topic stuff)
 I'm a Sci-fi/Metalhead type-a-nerd & I really love imersive-sim Games.
 (holding the Deus Ex series close to heart). 
-Also I have a "hobby level" of interest in Computer Hacking & Astrophysics.*
+Also I have a "hobby level" of interest in Computer Hacking & Astrophysics^^*
 
 
 
 
- 
-
-<!---
-Molderon/Molderon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
