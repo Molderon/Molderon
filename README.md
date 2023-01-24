@@ -1,8 +1,14 @@
 Greetings, I'm Molderon
+I'm the "Sci-fi/Metalhead" type-a-nerd, &&
+Currently finishing an Engineering degree.
 
-  -> a Bit about me...
-I'm the *Sci-fi/Metalhead* type-a-nerd, I find my-self quite inquisitive to the 
-field of Computer Science && I support Richard Stallman's free software movement.
+-> my interests dwell around:
+   - Systems Design
+   - Backend Development
+   - Machine Learning
+   - Ethical Hacking (hobby level) 
+
+//I code for fun
 
 If you wish to contact me 
--> Molderon18@gmail.com
+-> Molderon@proton.me
