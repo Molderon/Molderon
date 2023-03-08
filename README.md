@@ -1,8 +1,5 @@
-Greetings Humanoid \m/,
+Terminally paranoid android,
 
-I'm Molderon
+yet an inquisitive schizoid.
 
-Jedi Knight by heart, yet Engineer by craft.
-
-If you wish to contact me 
-->Molderon@proton.me
+Thus, a merely happy humanoid :) 
