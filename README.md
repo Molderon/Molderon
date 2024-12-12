@@ -5,9 +5,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=4caf50&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Science+Fiction;Robotics+Engineering;Machine+Learning;Backend+Developer;Embedded+Systems;Open+Source;Secure+Coding;Research+and+Development;Digital+Twins;Advanced+Robotics;Zero+Day+Exploits;Internet+Freedom;Machine+Sentience;Null+Entropy;Are+you+still+there?;" width="auto" height="35" style="vertical-align: middle;">
 </p>
 
->If **Terminally** paranoid android? \
->Yet an **inquisitive** schizoid...
->Thus, a  happy **humanoid** :)
+If <b style="color:#5865F2;">Terminally</b> paranoid android? \
+Yet an <b style="color:#5865F2;">inquisitive</b> schizoid...\
+Thus, a happy <b style="color:#5865F2;">humanoid</b> :)
+
 ## Tech Stack
 
 
@@ -34,8 +35,8 @@
 <br>
 <h2 align="center"></h2>
 <div align="center">
-<a href="https://github.com/Molderon/DumboTheRobot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Molderon&repo=DumboTheRobot&theme=shadow_green"></a>
-<a href="https://github.com/Molderon/Machine-Learning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Molderon&repo=Machine-Learning&theme=shadow_green"></a>
-<a href="https://github.com/Molderon/ICU-Mechanical-Ventilation-Asyncronies"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Molderon&repo=ICU-Mechanical-Ventilation-Asyncronies&theme=shadow_green"></a>
-<a href="https://github.com/Molderon/3D-Graphics-Engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Molderon&repo=3D-Graphics-Engine&theme=shadow_green"></a>
+<a href="https://github.com/Molderon/DumboTheRobot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Molderon&repo=DumboTheRobot&theme=shadow_red"></a>
+<a href="https://github.com/Molderon/Machine-Learning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Molderon&repo=Machine-Learning&theme=shadow_red"></a>
+<a href="https://github.com/Molderon/ICU-Mechanical-Ventilation-Asyncronies"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Molderon&repo=ICU-Mechanical-Ventilation-Asyncronies&theme=shadow_red"></a>
+<a href="https://github.com/Molderon/3D-Graphics-Engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Molderon&repo=3D-Graphics-Engine&theme=shadow_red"></a>
 </div>
