@@ -34,10 +34,10 @@ Thus, a happy <b style="color:#5865F2;">humanoid</b> :)
 <br>
 <h2 align="center"></h2>
 <div align="center"> 
-<a href="https://github.com/Molderon/Machine-Learning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Molderon&repo=Machine-Learning&theme=shadow_blue"></a>
-<a href="https://github.com/Molderon/DumboTheRobot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Molderon&repo=DumboTheRobot&theme=shadow_blue"></a>
-<a href="https://github.com/Molderon/ICU-Mechanical-Ventilation-Asyncronies"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Molderon&repo=ICU-Mechanical-Ventilation-Asyncronies&theme=shadow_blue"></a>
-<a href="https://github.com/Molderon/3D-Graphics-Engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Molderon&repo=3D-Graphics-Engine&theme=shadow_blue"></a>
+<a href="https://github.com/Molderon/Machine-Learning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Molderon&repo=Machine-Learning&theme=ocean_dark"></a>
+<a href="https://github.com/Molderon/DumboTheRobot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Molderon&repo=DumboTheRobot&theme=ocean_dark"></a>
+<a href="https://github.com/Molderon/ICU-Mechanical-Ventilation-Asyncronies"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Molderon&repo=ICU-Mechanical-Ventilation-Asyncronies&theme=ocean_dark"></a>
+<a href="https://github.com/Molderon/3D-Graphics-Engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Molderon&repo=3D-Graphics-Engine&theme=ocean_dark"></a>
 </div>
 
 
