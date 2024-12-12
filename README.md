@@ -6,7 +6,7 @@
 </p>
 
 >If **Terminally** paranoid android? \
->Yet an **inquisitive** schizoid...\
+>Yet an **inquisitive** schizoid...
 >Thus, a  happy **humanoid** :)
 ## Tech Stack
 
