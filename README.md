@@ -1,5 +1,5 @@
 ## Molderon <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-**`Ivelin Karageorgiev::Play_Metal(666);`**
+**`Ivelin Karageorgiev::Play_Metal(666);`** 
 
 <p align="bottom">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=4caf50&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Robotics+Engineer;Machine+Learning;Backend+Developer;Embedded+Systems;" width="auto" height="35" style="vertical-align: middle;">
@@ -9,6 +9,7 @@
 >Yet an **inquisitive** schizoid...\
 >Thus, a  happy **humanoid** :)
 ## Tech Stack
+
 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -26,5 +27,6 @@
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Raspberry Pi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 <img align="left" alt="TF" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+<img align="left" alt="TF" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg" />
 
 
