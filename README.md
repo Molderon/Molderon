@@ -19,7 +19,7 @@
 <img align="left" alt="Tor" width="40px" style="padding-right:10px;" src="https://github.com/TheTorProject/tor-media/blob/master/Tor%20Logo/Color.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Metasploit" width="25px" style="padding-right:10px;" src="https://github.com/rohhthone/logo/blob/main/metasploit.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" />
 <img align="left" alt="OpenCV" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg"/> 
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 <img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"/>
