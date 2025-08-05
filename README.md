@@ -1,5 +1,5 @@
 ## Molderon <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-**`Ivelin Karageorgiev::Play_Metal(666);`** 
+**`Btw, I use NixOS`** 
 
 <p align="bottom">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=4caf50&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Science+Fiction;Robotics+Engineering;Machine+Learning;Backend+Developer;Embedded+Systems;Open+Source;Secure+Coding;Research+and+Development;Digital+Twins;Advanced+Robotics;Zero+Day+Exploits;Internet+Freedom;Machine+Sentience;Null+Entropy;Are+you+still+there?;" width="auto" height="35" style="vertical-align: middle;">
