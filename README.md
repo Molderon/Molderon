@@ -37,8 +37,7 @@
 <a href="https://github.com/Molderon/Machine-Learning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Molderon&repo=Machine-Learning&theme=shadow_blue"></a>
 <a href="https://github.com/Molderon/DumboTheRobot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Molderon&repo=DumboTheRobot&theme=shadow_blue"></a>
 <a href="https://github.com/Molderon/3D-Graphics-Engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Molderon&repo=3D-Graphics-Engine&theme=shadow_blue"></a>
-<a href="https://github.com/Molderon/Intensive-Care-Medicine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Molderon&repo=Intensive-Care-Medicine
-&theme=shadow_blue"></a>
+<a href="https://github.com/Molderon/Intensive-Care-Medicine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Molderon&repo=Intensive-Care-Medicine&theme=shadow_blue"></a>
 </div>
 
 
