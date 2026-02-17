@@ -29,8 +29,16 @@
 <br>
 
 <div align="center"> 
-<a href="https://github.com/Molderon/Machine-Learning"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Molderon&repo=Machine-Learning&bg_color=00000000&title_color=5865F2&text_color=adbac7&icon_color=5865F2&border_color=5865F2&show_owner=true"></a>
-<a href="https://github.com/Molderon/DumboTheRobot"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Molderon&repo=DumboTheRobot&bg_color=00000000&title_color=5865F2&text_color=adbac7&icon_color=5865F2&border_color=5865F2&show_owner=true"></a>
-<a href="https://github.com/Molderon/3D-Graphics-Engine"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Molderon&repo=3D-Graphics-Engine&bg_color=00000000&title_color=5865F2&text_color=adbac7&icon_color=5865F2&border_color=5865F2&show_owner=true"></a>
-<a href="https://github.com/Molderon/Intensive-Care-Medicine"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Molderon&repo=Intensive-Care-Medicine&bg_color=00000000&title_color=5865F2&text_color=adbac7&icon_color=5865F2&border_color=5865F2&show_owner=true"></a>
+<a href="https://github.com/Molderon/Machine-Learning">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Molderon&repo=Machine-Learning&bg_color=050a14&title_color=00d4ff&text_color=a0a8b7&icon_color=00d4ff&border_color=1b2b4b&show_owner=true&v=deepsea_1">
+</a>
+<a href="https://github.com/Molderon/DumboTheRobot">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Molderon&repo=DumboTheRobot&bg_color=050a14&title_color=00d4ff&text_color=a0a8b7&icon_color=00d4ff&border_color=1b2b4b&show_owner=true&v=deepsea_1">
+</a>
+<a href="https://github.com/Molderon/3D-Graphics-Engine">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Molderon&repo=3D-Graphics-Engine&bg_color=050a14&title_color=00d4ff&text_color=a0a8b7&icon_color=00d4ff&border_color=1b2b4b&show_owner=true&v=deepsea_1">
+</a>
+<a href="https://github.com/Molderon/Intensive-Care-Medicine">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Molderon&repo=Intensive-Care-Medicine&bg_color=050a14&title_color=00d4ff&text_color=a0a8b7&icon_color=00d4ff&border_color=1b2b4b&show_owner=true&v=deepsea_1">
+</a>
 </div>
