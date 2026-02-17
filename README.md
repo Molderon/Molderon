@@ -26,19 +26,30 @@
 <img align="left" alt="TF" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 
 <br clear="left" />
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Molderon/Molderon/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Molderon/Molderon/output/github-contribution-grid-snake.svg">
+  <img alt="" src="https://raw.githubusercontent.com/Molderon/Molderon/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Molderon&bg_color=000000&color=00d4ff&line=5865F2&point=00d4ff&area=true&hide_border=true" width="100%">
+</div>
+
+---
 
 <div align="center"> 
 <a href="https://github.com/Molderon/Machine-Learning">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Molderon&repo=Machine-Learning&bg_color=050a14&title_color=00d4ff&text_color=a0a8b7&icon_color=00d4ff&border_color=1b2b4b&show_owner=true&v=deepsea_1">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Molderon&repo=Machine-Learning&bg_color=000000&title_color=00d4ff&text_color=adbac7&icon_color=00d4ff&border_color=202951&show_owner=true">
 </a>
 <a href="https://github.com/Molderon/DumboTheRobot">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Molderon&repo=DumboTheRobot&bg_color=050a14&title_color=00d4ff&text_color=a0a8b7&icon_color=00d4ff&border_color=1b2b4b&show_owner=true&v=deepsea_1">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Molderon&repo=DumboTheRobot&bg_color=000000&title_color=00d4ff&text_color=adbac7&icon_color=00d4ff&border_color=202951&show_owner=true">
 </a>
 <a href="https://github.com/Molderon/3D-Graphics-Engine">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Molderon&repo=3D-Graphics-Engine&bg_color=050a14&title_color=00d4ff&text_color=a0a8b7&icon_color=00d4ff&border_color=1b2b4b&show_owner=true&v=deepsea_1">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Molderon&repo=3D-Graphics-Engine&bg_color=000000&title_color=00d4ff&text_color=adbac7&icon_color=00d4ff&border_color=202951&show_owner=true">
 </a>
 <a href="https://github.com/Molderon/Intensive-Care-Medicine">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Molderon&repo=Intensive-Care-Medicine&bg_color=050a14&title_color=00d4ff&text_color=a0a8b7&icon_color=00d4ff&border_color=1b2b4b&show_owner=true&v=deepsea_1">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Molderon&repo=Intensive-Care-Medicine&bg_color=000000&title_color=00d4ff&text_color=adbac7&icon_color=00d4ff&border_color=202951&show_owner=true">
 </a>
 </div>
