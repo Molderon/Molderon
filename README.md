@@ -31,10 +31,6 @@
   <img alt="" src="https://raw.githubusercontent.com/Molderon/Molderon/output/github-contribution-grid-snake.svg">
 </picture>
 
----
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Molderon&bg_color=000000&color=00d4ff&line=5865F2&point=00d4ff&area=true&hide_border=true" width="100%">
-</div>
 
 ---
 
